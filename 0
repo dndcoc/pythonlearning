@@ -1,0 +1,3 @@
+arithmetic thing
+  print(a//b) #取整
+  print(a%b)  #取余
