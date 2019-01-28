@@ -1,3 +1,4 @@
 arithmetic thing
   print(a//b) #取整
   print(a%b)  #取余
+  ## eg.let a be 1.2, b be3.9, then a//b will be 0 and a%b will be 1.2
